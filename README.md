@@ -36,14 +36,14 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco 
 - Colaborar con otros desarrolladores y aprender de sus experiencias.
 
 ---
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgnot&layout=compact&theme=radical" alt="Henry's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgnot&layout=compact&theme=radical" alt="Henry's Top Languages" width="48%" />
 </p>
+
 <h3 align="left">📊 GitHub Analytics:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kgnot&show_icons=true&theme=radical" alt="Henry's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kgnot&theme=radical" alt="Henry's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kgnot&show_icons=true&theme=radical" alt="Henry's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgnot&theme=radical" alt="Henry's GitHub streak" width="48%" />
 </p>
 
 

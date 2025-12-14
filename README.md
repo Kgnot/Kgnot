@@ -51,7 +51,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgnot&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css,json,markdown" alt="Lenguajes más usados de Henry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgnot&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css,json,markdown,scss" alt="Lenguajes más usados de Henry" width="48%" />
 </p>
 
 ---

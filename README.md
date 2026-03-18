@@ -58,6 +58,6 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco 
 
 <h3 align="left">Conecta conmigo</h3>
 <p align="left">
-  <a href="mailto:hricaurtem@proton.me" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="mailto:hricaurtem@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
   <a href="https://github.com/Kgnot" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>

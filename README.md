@@ -1,13 +1,17 @@
 <h1 align="center">Henry Ricaurte Mora</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Spring+Boot+Enthusiast;IoT+Explorer&center=true&width=500&height=50">
+</p>
+
+<p align="center">
   <em>"El software es una forma de pensar, no solo de programar."</em>
 </p>
 
 <h3 align="center">Ingeniero de Sistemas en Formación | Desarrollador Backend | Apasionado por la Tecnología</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kgnot&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="kgnot" />
+  <img src="https://komarev.com/ghpvc/?username=kgnot&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -16,38 +20,42 @@
 > Actualmente estoy enfocado en fortalecer mis habilidades en desarrollo backend con Java y Spring Boot.
 
 > [!TIP]
-> Me interesa especialmente la integración entre IoT y aplicaciones web modernas.
+> Me interesa la integración entre IoT y aplicaciones web modernas.
 
 > [!IMPORTANT]
-> Siempre busco construir soluciones que no solo funcionen, sino que sean escalables y mantenibles.
+> Busco construir soluciones escalables, limpias y mantenibles.
 
 ---
 
 <p align="center">
   Bogotá, Colombia<br>
-  Contacto: <a href="mailto:hricaurtem@gmail.com">hricaurtem@gmail.com</a> | <a href="mailto:hricaurtem@proton.me">hricaurtem@proton.me</a>
+  Contacto: <a href="mailto:hricaurtem@gmail.com">hricaurtem@gmail.com</a> |
+  <a href="mailto:hricaurtem@proton.me">hricaurtem@proton.me</a>
 </p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas. Me apasiona el desarrollo backend, el diseño de arquitecturas escalables y la integración de sistemas con IoT.
+Soy estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas.  
+Me apasiona el desarrollo backend, la arquitectura de software y la integración de sistemas con IoT.
 
 Disfruto construir soluciones tecnológicas que conecten el mundo físico con el digital, combinando software, datos y hardware.
 
@@ -79,10 +87,10 @@ Disfruto construir soluciones tecnológicas que conecten el mundo físico con el
 
 <p align="center">
   <a href="mailto:hricaurtem@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Kgnot">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 

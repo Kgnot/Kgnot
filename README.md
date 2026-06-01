@@ -79,14 +79,16 @@ Disfruto construir soluciones tecnológicas que conecten el mundo físico con el
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kgnot&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgnot&theme=tokyonight" width="48%"/>
+  <img src="https://ghstats.dev/api/card?username=Kgnot&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgnot&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css,json,markdown,scss" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kgnot&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kgnot&theme=tokyonight" />
+</p>
 ---
 
 ## Conecta conmigo
